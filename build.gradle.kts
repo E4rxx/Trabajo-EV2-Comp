@@ -42,5 +42,5 @@ tasks.jar {
     duplicatesStrategy = DuplicatesStrategy.EXCLUDE
 }
 kotlin {
-    jvmToolchain(21)
+    jvmToolchain(17)
 }

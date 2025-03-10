@@ -1,6 +1,5 @@
-# Trabajo Evaluación 2 -- Versión de compatibilidad
+# Trabajo Evaluación 2
  Repositorio para el trabajo de la segunda evaluación (lo que hemos podido eh)
- Este repositorio contiene una serie de cambios para hacerlo compatible con versiones **algo** más antiguas de java. Esta versión solo se debe usar si no funciona la versión normal
 
  ## Cómo descargarlo
 
